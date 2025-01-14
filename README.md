@@ -7,3 +7,4 @@
 1. Act like a real established business, not like a broke startup or individual.
 1. Let some $ go, if it brings $$$ or helps you reach there.
 1. Some customers look for your expertise and suggestions on top of their requirements, so always ask for it.
+1. Never reduce your values to win any project, this will have bad effects in long run.
