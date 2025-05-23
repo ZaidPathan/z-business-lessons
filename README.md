@@ -9,3 +9,4 @@
 1. Some customers look for your expertise and suggestions on top of their requirements, so always ask for it.
 1. Capacity planning is crucial task for high productivity.
 1. A customer who doesn’t value your time will never be a good customer.
+1. Keep single source of truth for all the information, including work status of your team.
