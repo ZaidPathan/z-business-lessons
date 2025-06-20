@@ -10,3 +10,5 @@
 1. Capacity planning is crucial task for high productivity.
 1. A customer who doesn’t value your time will never be a good customer.
 1. Keep single source of truth for all the information, including work status of your team.
+1. Start every meeting/day/week with agenda of expected output.
+1. Plan your and team's day based on daily goals. Ex. Schedule all necessary calls early rather than end moment.
