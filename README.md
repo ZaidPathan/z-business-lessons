@@ -12,3 +12,4 @@
 1. Keep single source of truth for all the information, including work status of your team.
 1. Start every meeting/day/week with agenda of expected output.
 1. Plan your and team's day based on daily goals. Ex. Schedule all necessary calls early rather than end moment.
+1. Never talk prematurely, take your time to understand anything new or you're unprepared of.
