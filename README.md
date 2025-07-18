@@ -14,3 +14,4 @@
 1. Plan your and team's day based on daily goals. Ex. Schedule all necessary calls early rather than end moment.
 1. Never talk prematurely, take your time to understand anything new or you're unprepared of.
 1. Don't interrupt anyone talking, stop when someone interrupts you.
+1. Instead of focusing on how correct you are, focus on what others did right, and be appreciative of that.
