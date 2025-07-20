@@ -15,3 +15,4 @@
 1. Never talk prematurely, take your time to understand anything new or you're unprepared of.
 1. Don't interrupt anyone talking, stop when someone interrupts you.
 1. Instead of focusing on how correct you are, focus on what others did right, and be appreciative of that.
+1. Never give timeline to clients without proper planning, always keep fair buffer to it.
